@@ -1,4 +1,4 @@
-* Multiominal Coefficients:
+* **Multiominal Coefficients**:
 
     ![](https://latex.codecogs.com/gif.latex?\binom{n}{n_{1},&space;n_{2},&space;..,&space;n_{m}}&space;=\frac{n!}{n_{1}!n_{2}!...n_{m}!})
 
@@ -16,7 +16,7 @@
 
     ![](https://latex.codecogs.com/gif.latex?\frac{4!}{2!2!}=6)
 
-* Number of vector (x1,x2..,xm) that:
+* **Number of vector (x1,x2..,xm) that**:
     - ![](https://latex.codecogs.com/gif.latex?x_{i}&space;>=0)
     - ![](https://latex.codecogs.com/gif.latex?x_{1}&plus;x_{2}&plus;...&plus;x_{m}=n)
 
@@ -39,7 +39,7 @@
 
     ![](https://latex.codecogs.com/gif.latex?=\binom{8-1}{4-1})
 
-* Number of vector (x1,x2..,xm) that:
+* **Number of vector (x1,x2..,xm) that:**
     - ![](https://latex.codecogs.com/gif.latex?x_{i}&space;>=0)
     - ![](https://latex.codecogs.com/gif.latex?x_{1}&plus;x_{2}&plus;...&plus;x_{m}=n)
     - ![](https://latex.codecogs.com/gif.latex?x_{i}&space;>=&space;min_{i}&space;,&space;i=1..m)
@@ -50,7 +50,7 @@
 
     ![](https://latex.codecogs.com/gif.latex?n'&space;=&space;n&space;-&space;\sum_{i=1}^{m}min_{i})
 
-* Binomial coefficient:
+* **Binomial coefficient:**
 
     ![](https://latex.codecogs.com/gif.latex?\binom{n}{k}&space;=&space;\frac{n!}{(n-k)!k!})
 
