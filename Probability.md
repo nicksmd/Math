@@ -58,4 +58,6 @@
 
     ![](https://latex.codecogs.com/gif.latex?(x&plus;y)^{n}&space;=&space;\sum_{k=0}^{n}\binom{n}{k}x^{k}y^{n-k})
 
-*
+* **Proposition 4.4**
+
+    ![](https://latex.codecogs.com/gif.latex?P(\bigcup_{1}^{n}E_{i})&space;=&space;\sum_{1}^{n}P(E_{i})-\sum_{i_{1}%3Ci_{2}}P(E_{i_{1}}E_{i_{2}})&plus;...&space;&plus;(-1)^{r&plus;1}\sum_{i_{1}%3Ci_{2}%3C...%3Ci_{r}}P(E_{i_{1}}E_{i_2}...E_{i_{r}})&plus;...&plus;(-1)^{n&plus;1}P(E_{i_{1}}E_{i_{2}}...E_{i_{n}}))))
