@@ -42,7 +42,7 @@ Some concepts:
 
   $dim(C(A)) = r$
 
-  $basis(C(A)) = \text{pivot columns of reff(A)}$
+  $basis(C(R)) = \text{pivot columns of reff(A)}$
 
   proof:
 
