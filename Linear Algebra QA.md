@@ -63,11 +63,46 @@ If we are given linearly independent $\{v_1,...,v_n\}∈R^n$, then  $span\{v_1,.
   $$
 
 
+
 => q.e.d
 
 ##### 6. Proof: Orthonormal set of vector are independent.
 
 https://www.quora.com/Is-an-orthonormal-set-of-vectors-a-linearly-independent-set/answer/Supreeth-Narasimhaswamy
+
+##### 7. Why different eigenvalues produce independent eigenvectors?
+
+Suppose we have k = 2 eigenvalues and some combination of $x_1 \text{ and } x_2$ produces 0:
+
+$c_1x_1+c_2x_2=0 ~~~(1)$. We will prove that $c_1=c_2=0$:
+
+$Ac_1x_1+Ac_2x_2=0 <=> c_1\lambda_1x_1+c_2\lambda_2x_2=0 ~~~(2)$
+
+Subtract $(1)\lambda_2 \text{ to } (2)$:
+
+$x_1c_1(\lambda_1-\lambda_2)=0 <=> c_1=0$ because $x_1 \neq 0$ and eigenvalues are different.
+
+Similarly, we can show that $c_2=0$. This same argument extends to any number of eigenvalue.
+
+##### 8. Why A is singular <=> A has an eigenvalue equal 0?
+
+Because: $ det(A) = \lambda_1..\lambda_n $
+
+##### Eigenvectors of a symmetric matrix A corresponding to different eigenvalues are orthogonal.
+
+http://www.maths.manchester.ac.uk/~peter/MATH10212/notes10.pdf
+
+
+
+ 	
+
+
+
+
+
+
+
+
 
 
 
